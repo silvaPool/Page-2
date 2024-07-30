@@ -77,10 +77,6 @@ main h2 .span1 {
     padding: 10px;
 }
 
-.box-article {
-    margin-bottom: 10px;
-}
-
 .content {
     display: grid;
     gap: 35px;
